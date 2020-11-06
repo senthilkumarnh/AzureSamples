@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+__azurite_db_queue__.json
+__azurite_db_queue_extent__.json
